@@ -1,0 +1,507 @@
+Origin,Destination,Distance,Origin_Lat,Origin_Long,Origin_State,Dest_Lat,Dest_Long,Dest_State,Ratings,Ideal_duration,Name,Type,Best Time to visit
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,India Gate,War Memorial,Evening
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Humayun's Tomb,Tomb,Afternoon
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Akshardham Temple,Temple,Afternoon
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Waste to Wonder Park,Theme Park,Evening
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Jantar Mantar,Observatory,Morning
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Chandni Chowk,Market,Afternoon
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Lotus Temple,Temple,Evening
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Red Fort,Fort,Afternoon
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Agrasen ki Baoli,Stepwell,Afternoon
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Sunder Nursery,Park,Afternoon
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Garden of Five Senses,Park,Morning
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Lodhi Garden,Park,All
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,National Gallery of Modern Art,Museum,All
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,National Zoological Park ,Zoo,All
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Qutub Minar,Monument,Afternoon
+Agra,Delhi,240,27.187935,78.003944,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,National Science Centre,Science,All
+Agra,Lucknow,334,27.187935,78.003944,Uttar Pradesh,26.839281,80.923133,Uttar Pradesh,4.2,01-Feb,Bara Imambara,Monument,All
+Agra,Lucknow,334,27.187935,78.003944,Uttar Pradesh,26.839281,80.923133,Uttar Pradesh,4.2,01-Feb,Phoenix Palassio,Mall,All
+Agra,Kanpur,277,27.187935,78.003944,Uttar Pradesh,26.449923,80.331874,Uttar Pradesh,4.2,,Allen Forest Zoo,Zoo,All
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Marine Drive,Promenade,Evening
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Gateway of India,Monument,All
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,All
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Sanjay Gandhi National Park,National Park,All
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Siddhivinayak Temple,Temple,All
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Mahalaxmi Temple,Temple,All
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Haji Ali Dargah,Religious Shrine,All
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Chowpatty Beach,Beach,Evening
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Essel World,Amusement Park,All
+Ahmedabad,Mumbai,526,23.025793,72.587265,Gujarat,18.987807,72.836447,Maharashtra,4.2,03-May,Elephanta Caves,Monument,All 
+Ahmedabad,Pune,663,23.025793,72.587265,Gujarat,18.513271,73.849852,Maharashtra,4.1,01-Mar,Shaniwar Wada,Fort,All
+Ahmedabad,Jaipur,660,23.025793,72.587265,Gujarat,26.913312,75.787872,Rajasthan,4.4,02-Mar,Hawa Mahal,Palace,Morning
+Ahmedabad,Jaipur,660,23.025793,72.587265,Gujarat,26.913312,75.787872,Rajasthan,4.4,02-Mar,Amber Fort,Fort,All
+Ahmedabad,Jaipur,660,23.025793,72.587265,Gujarat,26.913312,75.787872,Rajasthan,4.4,02-Mar,Jaigarh Fort,Fort,All
+Ahmedabad,Jaipur,660,23.025793,72.587265,Gujarat,26.913312,75.787872,Rajasthan,4.4,02-Mar,City Palace,Palace,Morning
+Ahmedabad,Jaipur,660,23.025793,72.587265,Gujarat,26.913312,75.787872,Rajasthan,4.4,02-Mar,Albert Hall Museum,Museum,All
+Ahmedabad,Udaipur,258,23.025793,72.587265,Gujarat,24.57951,73.690508,Rajasthan,4.3,02-Mar,City Palace,Palace,All
+Ahmedabad,Udaipur,258,23.025793,72.587265,Gujarat,24.57951,73.690508,Rajasthan,4.3,02-Mar,Lake Pichola,Lake,All
+Bengaluru,Pune,839,12.977063,77.587106,Karnataka,18.513271,73.849852,Maharashtra,4.1,01-Mar,Shaniwar Wada,Fort,All
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Charminar,Landmark,Morning
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Golconda Fort,Fort,Morning
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Hussain Sagar Lake,Lake,Evening
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Ramoji Film City,Film Studio,All
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Salar Jung Museum,Museum,All
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Qutb Shahi Tombs,Tombs,Morning
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Birla Mandir,Temple,All
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Chowmahalla Palace,Palace,Morning
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Nehru Zoological Park,Zoo,Morning
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Lumbini Park,Park,Evening
+Bengaluru,Hyderabad,576,12.977063,77.587106,Karnataka,17.384052,78.456355,Telangana,4.1,02-Apr,Inorbit Mall Cyberabad,Mall,All
+Bengaluru,Chennai,346,12.977063,77.587106,Karnataka,13.084622,80.248357,Tamil Nadu ,3.9,02-Mar,Marina Beach,Beach,Morning
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Calangute Beach,Beach,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Basilica of Bom Jesus,Church,Afternoon
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Fort Aguada,Fort,Morning
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Dudhsagar Falls,Waterfall,Afternoon
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Anjuna Beach,Beach,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Chapora Fort,Fort,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Se Cathedral,Church,Afternoon
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Baga Beach,Beach,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Arambol Beach,Beach,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Palolem Beach,Beach,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Colva Beach,Beach,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Miramar Beach,Beach,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Aguada Beach,Beach,Evening
+Bengaluru,Goa,562,12.977063,77.587106,Karnataka,15.299326,74.123996,Goa,4.5,03-Jul,Dr. Salim Ali Bird Santuary,Bird Sanctuary,Afternoon
+Bhubaneswar,Kolkata,442, 20.296060,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Victoria Memorial,Museum,Morning
+Bhubaneswar,Kolkata,442, 20.296061,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Howrah Bridge,Bridge,Anytime
+Bhubaneswar,Kolkata,442, 20.296062,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Indian Museum,Museum,Morning
+Bhubaneswar,Kolkata,442, 20.296063,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Dakshineswar Kali Temple,Temple,Morning
+Bhubaneswar,Kolkata,442, 20.296064,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Kalighat Kali Temple,Temple,Morning
+Bhubaneswar,Kolkata,442, 20.296065,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Eden Gardens,Cricket Ground,All
+Bhubaneswar,Kolkata,442, 20.296066,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Alipore Zoological Gardens,Zoo,Afternoon
+Bhubaneswar,Kolkata,442, 20.296067,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Science City Kolkata,Science,All
+Bhubaneswar,Kolkata,442, 20.296068,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Belur Math,Site,Morning
+Bhubaneswar,Kolkata,442, 20.296069,85.82454,Odisha,22.562627,88.363044,West Bengal,4.3,02-Apr,Marble Palace,Palace,Afternoon
+Bhubaneswar,Vishakhapatnam,444, 20.296070,85.82454,Odisha,17.704052,83.297663,Andhra Pradesh,4.2,,,,
+Bhubaneswar,Patna,831, 20.296071,85.82454,Odisha,25.615379,85.101027,Bihar,4.2,,Sanjay Gandhi Biological Park,Zoo,All
+Bhubaneswar,Patna,831, 20.296072,85.82454,Odisha,25.615379,85.101027,Bihar,4.2,,Takhat Shri Harimandir Ji Patna Sahib,Gurudwara,All
+Bhubaneswar,Patna,831, 20.296073,85.82454,Odisha,25.615379,85.101027,Bihar,4.2,,Budhha Smriti Park,Park,All
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Charminar,Landmark,Morning
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Golconda Fort,Fort,Morning
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Hussain Sagar Lake,Lake,Evening
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Ramoji Film City,Film Studio,All
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Salar Jung Museum,Museum,All
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Qutb Shahi Tombs,Tombs,Morning
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Birla Mandir,Temple,All
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Chowmahalla Palace,Palace,Morning
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Nehru Zoological Park,Zoo,Morning
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Lumbini Park,Park,Evening
+Chennai,Hyderabad,626,13.084622,80.248357,Tamil Nadu ,17.384052,78.456355,Telangana,4.1,02-Apr,Inorbit Mall Cyberabad,Mall,All
+Chennai,Bengaluru,345,13.084622,80.248357,Tamil Nadu ,12.977063,77.587106,Karnataka,4.2,,Wonderla Amusement Park,Amusement Park,All
+Chennai,Bengaluru,345,13.084622,80.248357,Tamil Nadu ,12.977063,77.587106,Karnataka,4.2,,Orion Mall,Mall,All
+Chennai,Kochi,690,13.084622,80.248357,Tamil Nadu ,9.947743,76.253802,Kerala,4.2,01-Feb,Fort Kochi,Site,All
+Chennai,Kochi,690,13.084622,80.248357,Tamil Nadu ,9.947743,76.253802,Kerala,4.2,01-Feb,Kerala Folklore Museum,Cultural,All
+Chennai,Kochi,690,13.084622,80.248357,Tamil Nadu ,9.947743,76.253802,Kerala,4.2,01-Feb,Wonderla Amusement Park,Amusement Park,All
+Chennai,Kochi,690,13.084622,80.248357,Tamil Nadu ,9.947743,76.253802,Kerala,4.2,01-Feb,LuLu International Shopping Mall,Mall,All
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Marine Drive,Promenade,Evening
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Gateway of India,Monument,All
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,All
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Sanjay Gandhi National Park,National Park,All
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Siddhivinayak Temple,Temple,All
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Mahalaxmi Temple,Temple,All
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Haji Ali Dargah,Religious Shrine,All
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Chowpatty Beach,Beach,Evening
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Essel World,Amusement Park,All
+Chennai,Mumbai,1335,13.084622,80.248357,Tamil Nadu ,18.987807,72.836447,Maharashtra,4.2,03-May,Elephanta Caves,Monument,All 
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Victoria Memorial,Museum,Morning
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Howrah Bridge,Bridge,Anytime
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Indian Museum,Museum,Morning
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Dakshineswar Kali Temple,Temple,Morning
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Kalighat Kali Temple,Temple,Morning
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Eden Gardens,Cricket Ground,All
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Alipore Zoological Gardens,Zoo,Afternoon
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Science City Kolkata,Science,All
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Belur Math,Site,Morning
+Chennai,Kolkata,1666,13.084622,80.248357,Tamil Nadu ,22.562627,88.363044,West Bengal,4.3,02-Apr,Marble Palace,Palace,Afternoon
+Delhi,Jaipur,307,28.651952,77.231495,Delhi,26.913312,75.787872,Rajasthan,4.4,02-Mar,Hawa Mahal,Palace,Morning
+Delhi,Jaipur,307,28.651952,77.231495,Delhi,26.913312,75.787872,Rajasthan,4.4,02-Mar,Amber Fort,Fort,All
+Delhi,Jaipur,307,28.651952,77.231495,Delhi,26.913312,75.787872,Rajasthan,4.4,02-Mar,Jaigarh Fort,Fort,All
+Delhi,Jaipur,307,28.651952,77.231495,Delhi,26.913312,75.787872,Rajasthan,4.4,02-Mar,City Palace,Palace,Morning
+Delhi,Jaipur,307,28.651952,77.231495,Delhi,26.913312,75.787872,Rajasthan,4.4,02-Mar,Albert Hall Museum,Museum,All
+Delhi,Agra,243,28.651952,77.231495,Delhi,27.187935,78.003944,Uttar Pradesh,4.2,01-Feb,Taj Mahal,Mausoleum,Morning
+Delhi,Agra,243,28.651952,77.231495,Delhi,27.187935,78.003944,Uttar Pradesh,4.2,01-Feb,Agra Fort,Fort,Afternoon
+Delhi,Lucknow,548,28.651952,77.231495,Delhi,26.839281,80.923133,Uttar Pradesh,4.2,01-Feb,Bara Imambara,Monument,All
+Delhi,Lucknow,548,28.651952,77.231495,Delhi,26.839281,80.923133,Uttar Pradesh,4.2,01-Feb,Phoenix Palassio,Mall,All
+Delhi,Chennai,2208,28.651952,77.231495,Delhi,13.084622,80.248357,Tamil Nadu ,3.9,02-Mar,Marina Beach,Beach,Morning
+Delhi,Bengaluru,2174,28.651952,77.231495,Delhi,12.977063,77.587106,Karnataka,4.2,,Wonderla Amusement Park,Amusement Park,All
+Delhi,Bengaluru,2174,28.651952,77.231495,Delhi,12.977063,77.587106,Karnataka,4.2,,Orion Mall,Mall,All
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Marine Drive,Promenade,Evening
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Gateway of India,Monument,All
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,All
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Sanjay Gandhi National Park,National Park,All
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Siddhivinayak Temple,Temple,All
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Mahalaxmi Temple,Temple,All
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Haji Ali Dargah,Religious Shrine,All
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Chowpatty Beach,Beach,Evening
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Essel World,Amusement Park,All
+Delhi,Mumbai,1452,28.651952,77.231495,Delhi,18.987807,72.836447,Maharashtra,4.2,03-May,Elephanta Caves,Monument,All 
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Charminar,Landmark,Morning
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Golconda Fort,Fort,Morning
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Hussain Sagar Lake,Lake,Evening
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Ramoji Film City,Film Studio,All
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Salar Jung Museum,Museum,All
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Qutb Shahi Tombs,Tombs,Morning
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Birla Mandir,Temple,All
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Chowmahalla Palace,Palace,Morning
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Nehru Zoological Park,Zoo,Morning
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Lumbini Park,Park,Evening
+Delhi,Hyderabad,1582,28.651952,77.231495,Delhi,17.384052,78.456355,Telangana,4.1,02-Apr,Inorbit Mall Cyberabad,Mall,All
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Charminar,Landmark,Morning
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Golconda Fort,Fort,Morning
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Hussain Sagar Lake,Lake,Evening
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Ramoji Film City,Film Studio,All
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Salar Jung Museum,Museum,All
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Qutb Shahi Tombs,Tombs,Morning
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Birla Mandir,Temple,All
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Chowmahalla Palace,Palace,Morning
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Nehru Zoological Park,Zoo,Morning
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Lumbini Park,Park,Evening
+Goa,Hyderabad,674,15.299326,74.123996,Goa,17.384052,78.456355,Telangana,4.1,02-Apr,Inorbit Mall Cyberabad,Mall,All
+Goa,Kochi,755,15.299326,74.123996,Goa,9.947743,76.253802,Kerala,4.2,01-Feb,Fort Kochi,Site,All
+Goa,Kochi,755,15.299326,74.123996,Goa,9.947743,76.253802,Kerala,4.2,01-Feb,Kerala Folklore Museum,Cultural,All
+Goa,Kochi,755,15.299326,74.123996,Goa,9.947743,76.253802,Kerala,4.2,01-Feb,Wonderla Amusement Park,Amusement Park,All
+Goa,Kochi,755,15.299326,74.123996,Goa,9.947743,76.253802,Kerala,4.2,01-Feb,LuLu International Shopping Mall,Mall,All
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Marine Drive,Promenade,Evening
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Gateway of India,Monument,All
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,All
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Sanjay Gandhi National Park,National Park,All
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Siddhivinayak Temple,Temple,All
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Mahalaxmi Temple,Temple,All
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Haji Ali Dargah,Religious Shrine,All
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Chowpatty Beach,Beach,Evening
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Essel World,Amusement Park,All
+Goa,Mumbai,585,15.299326,74.123996,Goa,18.987807,72.836447,Maharashtra,4.2,03-May,Elephanta Caves,Monument,All 
+Goa,Pune,442,15.299326,74.123996,Goa,18.513271,73.849852,Maharashtra,4.1,01-Mar,Shaniwar Wada,Fort,All
+Goa,Thiruvananthapuram,1305,15.299326,74.123996,Goa,8.485498,76.949238,Kerala,4.2,,Padmanabhaswamy Temple,Temple,All
+Hyderabad,Pune,562,17.384052,78.456355,Telangana,18.513271,73.849852,Maharashtra,4.1,01-Mar,Shaniwar Wada,Fort,All
+Hyderabad,Bengaluru,576,17.384052,78.456355,Telangana,12.977063,77.587106,Karnataka,4.2,,Wonderla Amusement Park,Amusement Park,All
+Hyderabad,Bengaluru,576,17.384052,78.456355,Telangana,12.977063,77.587106,Karnataka,4.2,,Orion Mall,Mall,All
+Hyderabad,Chennai,627,17.384052,78.456355,Telangana,13.084622,80.248357,Tamil Nadu ,3.9,02-Mar,Marina Beach,Beach,Morning
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Calangute Beach,Beach,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Basilica of Bom Jesus,Church,Afternoon
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Fort Aguada,Fort,Morning
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Dudhsagar Falls,Waterfall,Afternoon
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Anjuna Beach,Beach,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Chapora Fort,Fort,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Se Cathedral,Church,Afternoon
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Baga Beach,Beach,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Arambol Beach,Beach,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Palolem Beach,Beach,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Colva Beach,Beach,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Miramar Beach,Beach,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Aguada Beach,Beach,Evening
+Hyderabad,Goa,674,17.384052,78.456355,Telangana,15.299326,74.123996,Goa,4.5,03-Jul,Dr. Salim Ali Bird Santuary,Bird Sanctuary,Afternoon
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Marine Drive,Promenade,Evening
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Gateway of India,Monument,All
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,All
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Sanjay Gandhi National Park,National Park,All
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Siddhivinayak Temple,Temple,All
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Mahalaxmi Temple,Temple,All
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Haji Ali Dargah,Religious Shrine,All
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Chowpatty Beach,Beach,Evening
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Essel World,Amusement Park,All
+Hyderabad,Mumbai,708,17.384052,78.456355,Telangana,18.987807,72.836447,Maharashtra,4.2,03-May,Elephanta Caves,Monument,All 
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,India Gate,War Memorial,Evening
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Humayun's Tomb,Tomb,Afternoon
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Akshardham Temple,Temple,Afternoon
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Waste to Wonder Park,Theme Park,Evening
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Jantar Mantar,Observatory,Morning
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Chandni Chowk,Market,Afternoon
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Lotus Temple,Temple,Evening
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Red Fort,Fort,Afternoon
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Agrasen ki Baoli,Stepwell,Afternoon
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Sunder Nursery,Park,Afternoon
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Garden of Five Senses,Park,Morning
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Lodhi Garden,Park,All
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,National Gallery of Modern Art,Museum,All
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,National Zoological Park ,Zoo,All
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,Qutub Minar,Monument,Afternoon
+Hyderabad,Delhi,1583,17.384052,78.456355,Telangana,28.651952,77.231495,Delhi,4.1,03-May,National Science Centre,Science,All
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Victoria Memorial,Museum,Morning
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Howrah Bridge,Bridge,Anytime
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Indian Museum,Museum,Morning
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Dakshineswar Kali Temple,Temple,Morning
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Kalighat Kali Temple,Temple,Morning
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Eden Gardens,Cricket Ground,All
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Alipore Zoological Gardens,Zoo,Afternoon
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Science City Kolkata,Science,All
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Belur Math,Site,Morning
+Hyderabad,Kolkata,1489,17.384052,78.456355,Telangana,22.562627,88.363044,West Bengal,4.3,02-Apr,Marble Palace,Palace,Afternoon
+Jaipur,Ahmedabad,659,26.913312,75.787872,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Sabarmati Ashram,Historical,Morning
+Jaipur,Ahmedabad,659,26.913312,75.787872,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Sabarmati Riverfront,Urban Development Project,Evening
+Jaipur,Ahmedabad,659,26.913312,75.787872,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Manek Chowk,Market,Night
+Jaipur,Ahmedabad,659,26.913312,75.787872,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Kankaria Lake,Lake,Afternoon
+Jaipur,Ahmedabad,659,26.913312,75.787872,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Science City,Science,All
+Jaipur,Udaipur,397,26.913312,75.787872,Rajasthan,24.57951,73.690508,Rajasthan,4.3,02-Mar,City Palace,Palace,All
+Jaipur,Udaipur,397,26.913312,75.787872,Rajasthan,24.57951,73.690508,Rajasthan,4.3,02-Mar,Lake Pichola,Lake,All
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,India Gate,War Memorial,Evening
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Humayun's Tomb,Tomb,Afternoon
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Akshardham Temple,Temple,Afternoon
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Waste to Wonder Park,Theme Park,Evening
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Jantar Mantar,Observatory,Morning
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Chandni Chowk,Market,Afternoon
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Lotus Temple,Temple,Evening
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Red Fort,Fort,Afternoon
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Agrasen ki Baoli,Stepwell,Afternoon
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Sunder Nursery,Park,Afternoon
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Garden of Five Senses,Park,Morning
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Lodhi Garden,Park,All
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,National Gallery of Modern Art,Museum,All
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,National Zoological Park ,Zoo,All
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Qutub Minar,Monument,Afternoon
+Jaipur,Delhi,308,26.913312,75.787872,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,National Science Centre,Science,All
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Marine Drive,Promenade,Evening
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Gateway of India,Monument,All
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,All
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Sanjay Gandhi National Park,National Park,All
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Siddhivinayak Temple,Temple,All
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Mahalaxmi Temple,Temple,All
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Haji Ali Dargah,Religious Shrine,All
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Chowpatty Beach,Beach,Evening
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Essel World,Amusement Park,All
+Jaipur,Mumbai,1170,26.913312,75.787872,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Elephanta Caves,Monument,All 
+Jaipur,Pune,1191,26.913312,75.787872,Rajasthan,18.513271,73.849852,Maharashtra,4.1,01-Mar,Shaniwar Wada,Fort,All
+Kanpur,Agra,301,26.449923,80.331874,Uttar Pradesh,27.187935,78.003944,Uttar Pradesh,4.2,01-Feb,Taj Mahal,Mausoleum,Morning
+Kanpur,Agra,301,26.449923,80.331874,Uttar Pradesh,27.187935,78.003944,Uttar Pradesh,4.2,01-Feb,Agra Fort,Fort,Afternoon
+Kanpur,Lucknow,115,26.449923,80.331874,Uttar Pradesh,26.839281,80.923133,Uttar Pradesh,4.2,01-Feb,Bara Imambara,Monument,All
+Kanpur,Lucknow,115,26.449923,80.331874,Uttar Pradesh,26.839281,80.923133,Uttar Pradesh,4.2,01-Feb,Phoenix Palassio,Mall,All
+Kanpur,Varanasi,328,26.449923,80.331874,Uttar Pradesh,25.31774,83.005811,Uttar Pradesh,4.5,02-Mar,Kashi Vishwanath Temple,Temple,All
+Kochi,Chennai,690,9.947743,76.253802,Kerala,13.084622,80.248357,Tamil Nadu ,3.9,02-Mar,Marina Beach,Beach,Morning
+Kochi,Bengaluru,547,9.947743,76.253802,Kerala,12.977063,77.587106,Karnataka,4.2,,Wonderla Amusement Park,Amusement Park,All
+Kochi,Bengaluru,547,9.947743,76.253802,Kerala,12.977063,77.587106,Karnataka,4.2,,Orion Mall,Mall,All
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Calangute Beach,Beach,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Basilica of Bom Jesus,Church,Afternoon
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Fort Aguada,Fort,Morning
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Dudhsagar Falls,Waterfall,Afternoon
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Anjuna Beach,Beach,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Chapora Fort,Fort,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Se Cathedral,Church,Afternoon
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Baga Beach,Beach,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Arambol Beach,Beach,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Palolem Beach,Beach,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Colva Beach,Beach,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Miramar Beach,Beach,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Aguada Beach,Beach,Evening
+Kochi,Goa,754,9.947743,76.253802,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Dr. Salim Ali Bird Santuary,Bird Sanctuary,Afternoon
+Kochi,Thiruvananthapuram,206,9.947743,76.253802,Kerala,8.485498,76.949238,Kerala,4.2,,Padmanabhaswamy Temple,Temple,All
+Kolkata,Varanasi,680,22.562627,88.363044,West Bengal,25.31774,83.005811,Uttar Pradesh,4.5,02-Mar,Kashi Vishwanath Temple,Temple,All
+Kolkata,Patna,554,22.562627,88.363044,West Bengal,25.615379,85.101027,Bihar,4.2,,Sanjay Gandhi Biological Park,Zoo,All
+Kolkata,Patna,554,22.562627,88.363044,West Bengal,25.615379,85.101027,Bihar,4.2,,Takhat Shri Harimandir Ji Patna Sahib,Gurudwara,All
+Kolkata,Patna,554,22.562627,88.363044,West Bengal,25.615379,85.101027,Bihar,4.2,,Budhha Smriti Park,Park,All
+Kolkata,Bhubaneswar,442,22.562627,88.363044,West Bengal, 20.296064,85.82454,Odisha,4.2,01-Feb,Lingaraj Temple,Temple,All
+Kolkata,Bhubaneswar,442,22.562627,88.363044,West Bengal, 20.296065,85.82454,Odisha,4.2,01-Feb,Nandankanan Zoological Park,Zoo,Afternoon
+Kolkata,Chennai,1668,22.562627,88.363044,West Bengal,13.084622,80.248357,Tamil Nadu ,3.9,02-Mar,Marina Beach,Beach,Morning
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,India Gate,War Memorial,Evening
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Humayun's Tomb,Tomb,Afternoon
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Akshardham Temple,Temple,Afternoon
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Waste to Wonder Park,Theme Park,Evening
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Jantar Mantar,Observatory,Morning
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Chandni Chowk,Market,Afternoon
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Lotus Temple,Temple,Evening
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Red Fort,Fort,Afternoon
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Agrasen ki Baoli,Stepwell,Afternoon
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Sunder Nursery,Park,Afternoon
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Garden of Five Senses,Park,Morning
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Lodhi Garden,Park,All
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,National Gallery of Modern Art,Museum,All
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,National Zoological Park ,Zoo,All
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,Qutub Minar,Monument,Afternoon
+Kolkata,Delhi,1563,22.562627,88.363044,West Bengal,28.651952,77.231495,Delhi,4.1,03-May,National Science Centre,Science,All
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,India Gate,War Memorial,Evening
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Humayun's Tomb,Tomb,Afternoon
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Akshardham Temple,Temple,Afternoon
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Waste to Wonder Park,Theme Park,Evening
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Jantar Mantar,Observatory,Morning
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Chandni Chowk,Market,Afternoon
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Lotus Temple,Temple,Evening
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Red Fort,Fort,Afternoon
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Agrasen ki Baoli,Stepwell,Afternoon
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Sunder Nursery,Park,Afternoon
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Garden of Five Senses,Park,Morning
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Lodhi Garden,Park,All
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,National Gallery of Modern Art,Museum,All
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,National Zoological Park ,Zoo,All
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,Qutub Minar,Monument,Afternoon
+Lucknow,Delhi,553,26.839281,80.923133,Uttar Pradesh,28.651952,77.231495,Delhi,4.1,03-May,National Science Centre,Science,All
+Lucknow,Agra,333,26.839281,80.923133,Uttar Pradesh,27.187935,78.003944,Uttar Pradesh,4.2,01-Feb,Taj Mahal,Mausoleum,Morning
+Lucknow,Agra,333,26.839281,80.923133,Uttar Pradesh,27.187935,78.003944,Uttar Pradesh,4.2,01-Feb,Agra Fort,Fort,Afternoon
+Lucknow,Kanpur,89,26.839281,80.923133,Uttar Pradesh,26.449923,80.331874,Uttar Pradesh,4.2,,Allen Forest Zoo,Zoo,All
+Mumbai,Pune,148,18.987807,72.836447,Maharashtra,18.513271,73.849852,Maharashtra,4.1,01-Mar,Shaniwar Wada,Fort,All
+Mumbai,Ahmedabad,526,18.987807,72.836447,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Sabarmati Ashram,Historical,Morning
+Mumbai,Ahmedabad,526,18.987807,72.836447,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Sabarmati Riverfront,Urban Development Project,Evening
+Mumbai,Ahmedabad,526,18.987807,72.836447,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Manek Chowk,Market,Night
+Mumbai,Ahmedabad,526,18.987807,72.836447,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Kankaria Lake,Lake,Afternoon
+Mumbai,Ahmedabad,526,18.987807,72.836447,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Science City,Science,All
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,India Gate,War Memorial,Evening
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Humayun's Tomb,Tomb,Afternoon
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Akshardham Temple,Temple,Afternoon
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Waste to Wonder Park,Theme Park,Evening
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Jantar Mantar,Observatory,Morning
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Chandni Chowk,Market,Afternoon
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Lotus Temple,Temple,Evening
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Red Fort,Fort,Afternoon
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Agrasen ki Baoli,Stepwell,Afternoon
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Sunder Nursery,Park,Afternoon
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Garden of Five Senses,Park,Morning
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Lodhi Garden,Park,All
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,National Gallery of Modern Art,Museum,All
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,National Zoological Park ,Zoo,All
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,Qutub Minar,Monument,Afternoon
+Mumbai,Delhi,1453,18.987807,72.836447,Maharashtra,28.651952,77.231495,Delhi,4.1,03-May,National Science Centre,Science,All
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Charminar,Landmark,Morning
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Golconda Fort,Fort,Morning
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Hussain Sagar Lake,Lake,Evening
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Ramoji Film City,Film Studio,All
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Salar Jung Museum,Museum,All
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Qutb Shahi Tombs,Tombs,Morning
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Birla Mandir,Temple,All
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Chowmahalla Palace,Palace,Morning
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Nehru Zoological Park,Zoo,Morning
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Lumbini Park,Park,Evening
+Mumbai,Hyderabad,713,18.987807,72.836447,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Inorbit Mall Cyberabad,Mall,All
+Mumbai,Bengaluru,984,18.987807,72.836447,Maharashtra,12.977063,77.587106,Karnataka,4.2,,Wonderla Amusement Park,Amusement Park,All
+Mumbai,Bengaluru,984,18.987807,72.836447,Maharashtra,12.977063,77.587106,Karnataka,4.2,,Orion Mall,Mall,All
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Victoria Memorial,Museum,Morning
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Howrah Bridge,Bridge,Anytime
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Indian Museum,Museum,Morning
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Dakshineswar Kali Temple,Temple,Morning
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Kalighat Kali Temple,Temple,Morning
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Eden Gardens,Cricket Ground,All
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Alipore Zoological Gardens,Zoo,Afternoon
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Science City Kolkata,Science,All
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Belur Math,Site,Morning
+Mumbai,Kolkata,1886,18.987807,72.836447,Maharashtra,22.562627,88.363044,West Bengal,4.3,02-Apr,Marble Palace,Palace,Afternoon
+Mumbai,Chennai,1338,18.987807,72.836447,Maharashtra,13.084622,80.248357,Tamil Nadu ,3.9,02-Mar,Marina Beach,Beach,Morning
+Patna,Varanasi,256,25.615379,85.101027,Bihar,25.31774,83.005811,Uttar Pradesh,4.5,02-Mar,Kashi Vishwanath Temple,Temple,All
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Victoria Memorial,Museum,Morning
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Howrah Bridge,Bridge,Anytime
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Indian Museum,Museum,Morning
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Dakshineswar Kali Temple,Temple,Morning
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Kalighat Kali Temple,Temple,Morning
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Eden Gardens,Cricket Ground,All
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Alipore Zoological Gardens,Zoo,Afternoon
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Science City Kolkata,Science,All
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Belur Math,Site,Morning
+Patna,Kolkata,578,25.615379,85.101027,Bihar,22.562627,88.363044,West Bengal,4.3,02-Apr,Marble Palace,Palace,Afternoon
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Marine Drive,Promenade,Evening
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Gateway of India,Monument,All
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,All
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Sanjay Gandhi National Park,National Park,All
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Siddhivinayak Temple,Temple,All
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Mahalaxmi Temple,Temple,All
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Haji Ali Dargah,Religious Shrine,All
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Chowpatty Beach,Beach,Evening
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Essel World,Amusement Park,All
+Pune,Mumbai,150,18.513271,73.849852,Maharashtra,18.987807,72.836447,Maharashtra,4.2,03-May,Elephanta Caves,Monument,All 
+Pune,Ahmedabad,660,18.513271,73.849852,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Sabarmati Ashram,Historical,Morning
+Pune,Ahmedabad,660,18.513271,73.849852,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Sabarmati Riverfront,Urban Development Project,Evening
+Pune,Ahmedabad,660,18.513271,73.849852,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Manek Chowk,Market,Night
+Pune,Ahmedabad,660,18.513271,73.849852,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Kankaria Lake,Lake,Afternoon
+Pune,Ahmedabad,660,18.513271,73.849852,Maharashtra,23.025793,72.587265,Gujarat,4.1,01-Feb,Science City,Science,All
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Charminar,Landmark,Morning
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Golconda Fort,Fort,Morning
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Hussain Sagar Lake,Lake,Evening
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Ramoji Film City,Film Studio,All
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Salar Jung Museum,Museum,All
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Qutb Shahi Tombs,Tombs,Morning
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Birla Mandir,Temple,All
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Chowmahalla Palace,Palace,Morning
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Nehru Zoological Park,Zoo,Morning
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Lumbini Park,Park,Evening
+Pune,Hyderabad,560,18.513271,73.849852,Maharashtra,17.384052,78.456355,Telangana,4.1,02-Apr,Inorbit Mall Cyberabad,Mall,All
+Pune,Bengaluru,842,18.513271,73.849852,Maharashtra,12.977063,77.587106,Karnataka,4.2,,Wonderla Amusement Park,Amusement Park,All
+Pune,Bengaluru,842,18.513271,73.849852,Maharashtra,12.977063,77.587106,Karnataka,4.2,,Orion Mall,Mall,All
+Thiruvananthapuram,Kochi,206,8.485498,76.949238,Kerala,9.947743,76.253802,Kerala,4.2,01-Feb,Fort Kochi,Site,All
+Thiruvananthapuram,Kochi,206,8.485498,76.949238,Kerala,9.947743,76.253802,Kerala,4.2,01-Feb,Kerala Folklore Museum,Cultural,All
+Thiruvananthapuram,Kochi,206,8.485498,76.949238,Kerala,9.947743,76.253802,Kerala,4.2,01-Feb,Wonderla Amusement Park,Amusement Park,All
+Thiruvananthapuram,Kochi,206,8.485498,76.949238,Kerala,9.947743,76.253802,Kerala,4.2,01-Feb,LuLu International Shopping Mall,Mall,All
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Calangute Beach,Beach,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Basilica of Bom Jesus,Church,Afternoon
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Fort Aguada,Fort,Morning
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Dudhsagar Falls,Waterfall,Afternoon
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Anjuna Beach,Beach,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Chapora Fort,Fort,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Se Cathedral,Church,Afternoon
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Baga Beach,Beach,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Arambol Beach,Beach,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Palolem Beach,Beach,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Colva Beach,Beach,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Miramar Beach,Beach,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Aguada Beach,Beach,Evening
+Thiruvananthapuram,Goa,1305,8.485498,76.949238,Kerala,15.299326,74.123996,Goa,4.5,03-Jul,Dr. Salim Ali Bird Santuary,Bird Sanctuary,Afternoon
+Udaipur,Ahmedabad,257,24.57951,73.690508,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Sabarmati Ashram,Historical,Morning
+Udaipur,Ahmedabad,257,24.57951,73.690508,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Sabarmati Riverfront,Urban Development Project,Evening
+Udaipur,Ahmedabad,257,24.57951,73.690508,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Manek Chowk,Market,Night
+Udaipur,Ahmedabad,257,24.57951,73.690508,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Kankaria Lake,Lake,Afternoon
+Udaipur,Ahmedabad,257,24.57951,73.690508,Rajasthan,23.025793,72.587265,Gujarat,4.1,01-Feb,Science City,Science,All
+Udaipur,Jaipur,397,24.57951,73.690508,Rajasthan,26.913312,75.787872,Rajasthan,4.4,02-Mar,Hawa Mahal,Palace,Morning
+Udaipur,Jaipur,397,24.57951,73.690508,Rajasthan,26.913312,75.787872,Rajasthan,4.4,02-Mar,Amber Fort,Fort,All
+Udaipur,Jaipur,397,24.57951,73.690508,Rajasthan,26.913312,75.787872,Rajasthan,4.4,02-Mar,Jaigarh Fort,Fort,All
+Udaipur,Jaipur,397,24.57951,73.690508,Rajasthan,26.913312,75.787872,Rajasthan,4.4,02-Mar,City Palace,Palace,Morning
+Udaipur,Jaipur,397,24.57951,73.690508,Rajasthan,26.913312,75.787872,Rajasthan,4.4,02-Mar,Albert Hall Museum,Museum,All
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Marine Drive,Promenade,Evening
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Gateway of India,Monument,All
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,All
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Sanjay Gandhi National Park,National Park,All
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Siddhivinayak Temple,Temple,All
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Mahalaxmi Temple,Temple,All
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Haji Ali Dargah,Religious Shrine,All
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Chowpatty Beach,Beach,Evening
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Essel World,Amusement Park,All
+Udaipur,Mumbai,767,24.57951,73.690508,Rajasthan,18.987807,72.836447,Maharashtra,4.2,03-May,Elephanta Caves,Monument,All 
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,India Gate,War Memorial,Evening
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Humayun's Tomb,Tomb,Afternoon
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Akshardham Temple,Temple,Afternoon
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Waste to Wonder Park,Theme Park,Evening
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Jantar Mantar,Observatory,Morning
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Chandni Chowk,Market,Afternoon
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Lotus Temple,Temple,Evening
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Red Fort,Fort,Afternoon
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Agrasen ki Baoli,Stepwell,Afternoon
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Sunder Nursery,Park,Afternoon
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Garden of Five Senses,Park,Morning
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Lodhi Garden,Park,All
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,National Gallery of Modern Art,Museum,All
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,National Zoological Park ,Zoo,All
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,Qutub Minar,Monument,Afternoon
+Udaipur,Delhi,688,24.57951,73.690508,Rajasthan,28.651952,77.231495,Delhi,4.1,03-May,National Science Centre,Science,All
+Varanasi,Kanpur,328,25.31774,83.005811,Uttar Pradesh,26.449923,80.331874,Uttar Pradesh,4.2,,Allen Forest Zoo,Zoo,All
+Varanasi,Patna,259,25.31774,83.005811,Uttar Pradesh,25.615379,85.101027,Bihar,4.2,,Sanjay Gandhi Biological Park,Zoo,All
+Varanasi,Patna,259,25.31774,83.005811,Uttar Pradesh,25.615379,85.101027,Bihar,4.2,,Takhat Shri Harimandir Ji Patna Sahib,Gurudwara,All
+Varanasi,Patna,259,25.31774,83.005811,Uttar Pradesh,25.615379,85.101027,Bihar,4.2,,Budhha Smriti Park,Park,All
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Victoria Memorial,Museum,Morning
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Howrah Bridge,Bridge,Anytime
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Indian Museum,Museum,Morning
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Dakshineswar Kali Temple,Temple,Morning
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Kalighat Kali Temple,Temple,Morning
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Eden Gardens,Cricket Ground,All
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Alipore Zoological Gardens,Zoo,Afternoon
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Science City Kolkata,Science,All
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Belur Math,Site,Morning
+Varanasi,Kolkata,683,25.31774,83.005811,Uttar Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Marble Palace,Palace,Afternoon
+Varanasi,Lucknow,312,25.31774,83.005811,Uttar Pradesh,26.839281,80.923133,Uttar Pradesh,4.2,01-Feb,Bara Imambara,Monument,All
+Varanasi,Lucknow,312,25.31774,83.005811,Uttar Pradesh,26.839281,80.923133,Uttar Pradesh,4.2,01-Feb,Phoenix Palassio,Mall,All
+Vishakhapatnam,Bhubaneswar,441,17.704052,83.297663,Andhra Pradesh,20.29606,85.82454,Odisha,4.2,01-Feb,Lingaraj Temple,Temple,All
+Vishakhapatnam,Bhubaneswar,441,17.704052,83.297663,Andhra Pradesh,20.29606,85.82454,Odisha,4.2,01-Feb,Nandankanan Zoological Park,Zoo,Afternoon
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Charminar,Landmark,Morning
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Golconda Fort,Fort,Morning
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Hussain Sagar Lake,Lake,Evening
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Ramoji Film City,Film Studio,All
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Salar Jung Museum,Museum,All
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Qutb Shahi Tombs,Tombs,Morning
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Birla Mandir,Temple,All
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Chowmahalla Palace,Palace,Morning
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Nehru Zoological Park,Zoo,Morning
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Lumbini Park,Park,Evening
+Vishakhapatnam,Hyderabad,618,17.704052,83.297663,Andhra Pradesh,17.384052,78.456355,Telangana,4.1,02-Apr,Inorbit Mall Cyberabad,Mall,All
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Victoria Memorial,Museum,Morning
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Howrah Bridge,Bridge,Anytime
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Indian Museum,Museum,Morning
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Dakshineswar Kali Temple,Temple,Morning
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Kalighat Kali Temple,Temple,Morning
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Eden Gardens,Cricket Ground,All
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Alipore Zoological Gardens,Zoo,Afternoon
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Science City Kolkata,Science,All
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Belur Math,Site,Morning
+Vishakhapatnam,Kolkata,882,17.704052,83.297663,Andhra Pradesh,22.562627,88.363044,West Bengal,4.3,02-Apr,Marble Palace,Palace,Afternoon
